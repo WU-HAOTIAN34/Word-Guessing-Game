@@ -1,13 +1,16 @@
 package comp1721.cwk1;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.File;
+import java.io.FileReader;
+import java.io.BufferedReader;
 import java.util.ArrayList;
 import java.util.List;
 
 
 public class WordList {
-    List<String> words;
-  // TODO: Implement constructor with a String parameter
+    private final List<String> words;
+    // TODO: Implement constructor with a String parameter
     public WordList(String filename) throws IOException{
         this.words = new ArrayList<>();
         File file = new File(filename);
@@ -19,7 +22,7 @@ public class WordList {
         }
         fr.close();
     }
-  // TODO: Implement size() method, returning an int
+    // TODO: Implement size() method, returning an int
     public int size(){
         return this.words.size();
     }
