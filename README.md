@@ -1,4 +1,4 @@
-# COMP1721 Coursework 1
+# Coursework-3
 
 * [Using Gradle](#using-gradle)
 * [Tests & Style Checking](#tests-and-style-checking)
