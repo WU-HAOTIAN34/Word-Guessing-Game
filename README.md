@@ -1,4 +1,6 @@
-# Coursework-3
+# Word-GGuessing Game
+
+![img](https://github.com/WU-HAOTIAN34/Word-Guessing-Game/blob/main/2024-05-14_222224.png)
 
 * [Using Gradle](#using-gradle)
 * [Tests & Style Checking](#tests-and-style-checking)
