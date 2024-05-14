@@ -1,4 +1,4 @@
-# Word-GGuessing Game
+# Word-Guessing Game
 
 ![img](https://github.com/WU-HAOTIAN34/Word-Guessing-Game/blob/main/2024-05-14_222224.png)
 
